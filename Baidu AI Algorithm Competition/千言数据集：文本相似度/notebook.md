@@ -1,5 +1,5 @@
 # 千言数据集：文本相似度
-竞赛地址：[千言数据集：文本相似度](https://aistudio.baidu.com/competition/detail/45/0/task-definition)
+竞赛地址：[千言数据集：文本相似度](https://aistudio.baidu.com/competition/detail/45/0/task-definition)  
 该比赛使用LCQMC、BQ Corpus和PAWS-X (中文)三个公开的文本相似度计算数据集。
 
 计算LCQMC数据集文本相似度的代码如下：
